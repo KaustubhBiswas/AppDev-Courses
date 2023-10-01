@@ -1,2 +1,2 @@
 # AppDev-Courses
-Free online courses for learnin App Development
+Free online courses for learning App Development
